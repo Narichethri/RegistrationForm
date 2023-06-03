@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+}
+h2{
+    margin:2% 0;
+    display:flex;
+    justify-content:center;
+    color:rgba(0,128,0,0.5)
+    
+}
+form{
+    margin:20px;
+    align-items:center;
+    margin-left:40%;
+    padding:10px 0;
+}
+div{
+    margin:10px 0;
+    font-size:18px;
+}
+div label{
+    margin:10px 0;
+
+}
+div input{
+    margin:10px 0;
+
+}
+.diet{
+    margin-left:13%;
+}
+.radio{
+    margin-left:13%;
+
+}
+.work{
+    margin-left:12%;
+
+}
+.submit{
+    font-size:17px;
+    padding:2px 5px;
+    margin-left:11%;
+    margin-top:5%;
+    background-color:rgba(0,128,0,0.6);
+}
+.submit:hover{
+    background-color:rgb(225,125,0,0.7);
+}
+@media screen and (max-width:1){
+
+}
